@@ -1,2 +1,3 @@
 (fp_lib_table
+  (lib (name RF-Arduino-Pro-Mini)(type KiCad)(uri /home/eti/kicad/Arduino-Pro-Mini/RF-Arduino-Pro-Mini)(options "")(descr ""))
 )
