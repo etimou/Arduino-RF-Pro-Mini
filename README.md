@@ -1,6 +1,6 @@
 # Arduino-RF-Pro-Mini
 **Arduino Pro Mini + nRF24L01P = Arduino-RF-Pro-Mini**
-- designed with [Kicad](https://kicad-pcb.org/).
+- designed with [Kicad](https://kicad.org/).
 - 100% Arduino Pro Mini pin compatible
 - embeds nRF24l01+ chip for radio communication
 - low power (can run for months on a battery)
